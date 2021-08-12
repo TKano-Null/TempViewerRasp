@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+#code by https://qiita.com/yukataoka/items/8f9046587c978e91f689
+
 from NCMB.Client import NCMB
 from smbus2 import SMBus
 import time
